@@ -56,7 +56,7 @@ The dataset includes 1,000 records with the following columns:
 
 ## **How to Run**
 1. Clone this repository:  
-   git clone https://github.com/yourusername/Hypothesis-Testing.git
+   git clone https://github.com/IshikaRastogi/Hypothesis-Testing.git
    cd Hypothesis-Testing
 2. Install the required libraries:
    pip install pandas scipy
